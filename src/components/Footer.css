@@ -1,0 +1,19 @@
+/* body {
+  min-height: 100vh;
+} */
+
+footer {
+  background-color: yellow;
+  text-align: center;
+  line-height: 1.5rem;
+  padding: 20px;
+  /* letter-spacing: 0.12rem; */
+  width: 100vw;
+  height: fit-content;
+  margin-top: auto;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  font-size: 0.85rem;
+}

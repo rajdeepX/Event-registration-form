@@ -1,0 +1,16 @@
+main {
+  /* background-color: orange; */
+  /* text-align: center; */
+  padding: 100px;
+  line-height: 2rem;
+  display: flex;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  /* width: 80vw; */
+  /* background-color: white; */
+}
